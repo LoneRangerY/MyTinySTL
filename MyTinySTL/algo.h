@@ -2185,5 +2185,6 @@ RandomAccessIterator __upper_bound(RandomAccessIterator first, RandomAccessItera
     }
     return first;
 }
-}
+
+} // namespace mystl
 #endif // !MYTINYSTL_ALGO_H_
